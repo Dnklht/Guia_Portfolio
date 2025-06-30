@@ -4,7 +4,7 @@ Esse repositório será responsável por explicar e sumarizar meu portifólio pr
 
 ## 📚 Conteúdo
 - [Python](#python)
-- [SQL](#sql)
+- [SQL](#SQL)
 
 ---
 
