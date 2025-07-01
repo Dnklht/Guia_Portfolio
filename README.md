@@ -19,5 +19,5 @@ Esse repositório será responsável por explicar e sumarizar meu portifólio pr
 
 | 📎 Link | 📅 Data de conclusão | 🛠️ Ferramentas | 📝 Descrição do projeto |
 |:----------------|:--------------------|:------------|:----------------------------|
-| 🔫 [Criminalidade](https://github.com/Dnklht/Portifolio/tree/main/Python/Youtube%20videos%20project) | Junho 2025 | SQL, PostgreSQL e pgAdmin | Analisei uma base de dados de uma tabela do PostgreSQL contendo alguns registros **fictícios** de crimes realizados em algumas cidades do Brasil. |
+| 🔫 [Criminalidade](https://github.com/Dnklht/Portfolio/tree/main/SQL/Criminalidade%20projeto) | Junho 2025 | SQL, PostgreSQL e pgAdmin | Analisei uma base de dados de uma tabela do PostgreSQL contendo alguns registros **fictícios** de crimes realizados em algumas cidades do Brasil. |
 
