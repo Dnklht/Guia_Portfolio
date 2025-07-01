@@ -1,5 +1,5 @@
 # Guia_Portifolio
-Esse repositório será responsável por explicar e sumarizar meu portifólio profissional.
+Esse repositório será responsável por explicar e sumarizar meu portifólio profissional. Link para o [portfólio]()
 
 
 ## 📚 Conteúdo
@@ -8,7 +8,7 @@ Esse repositório será responsável por explicar e sumarizar meu portifólio pr
 
 ---
 
-## 🛠️ Python
+## 🐍 Python
 
 | 📎 Link | 📅 Data de conclusão | 🛠️ Ferramentas | 📝 Descrição do projeto |
 |:----------------|:--------------------|:------------|:----------------------------|
@@ -19,5 +19,5 @@ Esse repositório será responsável por explicar e sumarizar meu portifólio pr
 
 | 📎 Link | 📅 Data de conclusão | 🛠️ Ferramentas | 📝 Descrição do projeto |
 |:----------------|:--------------------|:------------|:----------------------------|
-| 🔫 [Criminalidade](https://github.com/Dnklht/Portifolio/tree/main/Python/Youtube%20videos%20project) | Junho 2025 | Python (SQL, PostgreSQL, pgAdmin) | Analisei uma base de dados de uma tabela do PostgresSQL contendo alguns registros **fictícios** de crimes realizados em algumas cidades do Brasil. |
+| 🔫 [Criminalidade](https://github.com/Dnklht/Portifolio/tree/main/Python/Youtube%20videos%20project) | Junho 2025 | Python (SQL, PostgreSQL, pgAdmin) | Analisei uma base de dados de uma tabela do PostgreSQL contendo alguns registros **fictícios** de crimes realizados em algumas cidades do Brasil. |
 
