@@ -7,7 +7,7 @@ Este repositório explica e sumariza meu portfólio profissional. Link para o [p
 
 ---
 
-## 🐍 Python
+## Python
 
 | 📎 Link | 📅 Data de conclusão | 🛠️ Ferramentas | 📝 Descrição do projeto |
 |:----------------|:--------------------|:------------|:----------------------------|
@@ -21,7 +21,7 @@ Este repositório explica e sumariza meu portfólio profissional. Link para o [p
 
 ---
 
-## 🛠️ SQL
+## SQL
 
 | 📎 Link | 📅 Data de conclusão | 🛠️ Ferramentas | 📝 Descrição do projeto |
 |:----------------|:--------------------|:------------|:----------------------------|
